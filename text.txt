@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 
 where is my friend?<master>
 hello for everyone!<master>
 
 add some text for rebase<master>
+=======
+hello,world!
+where is my friend?<master>
+hello,my friend<first>
+i am going to Moscow
+>>>>>>> 48791ad (refactor:change text.txt)
 
