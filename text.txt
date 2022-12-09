@@ -1,4 +1,5 @@
 hello,world!
+<<<<<<< HEAD
 
 where is my friend?<master>
 hello for everyone!<master>
@@ -8,3 +9,7 @@ add some text for rebase<master>
 
 
 
+=======
+add some text<main>
+hello,my friends<first>
+>>>>>>> 70d9ef5 (refactor: change text.txt)
